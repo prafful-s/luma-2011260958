@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/trehan/lumaattributes/language-masters/en:/",
+    "/content/trehan/lumaattributes/language-masters/en/:/en/",
+    "/content/trehan/lumaattributes/configuration:/.helix/config.json",
+    "/content/trehan/lumaattributes/metadata:/metadata.json",
+    "/content/trehan/lumaattributes/redirects:/redirects.json",
+    "/content/trehan/lumaattributes/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/trehan/lumaattributes/",
+    "/content/dam/trehan/lumaattributes/"
   ]
 }
